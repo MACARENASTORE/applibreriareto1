@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Libreria</string>
+    <string name="terms_and_conditions_title">Términos y Condiciones</string>
+    <string name="accept_terms">Acepto los términos y condiciones</string>
+    <string name="accept_button">Aceptar</string>
+    <string name="terms_and_conditions">
+        <![CDATA[
+        <h1>Términos y Condiciones</h1>
+
+        <p>Bienvenido a [Nombre de la App] (en adelante, "la App"). Al utilizar nuestros servicios, aceptas cumplir y estar sujeto a los siguientes términos y condiciones. Si no estás de acuerdo con alguno de estos términos, no podrás utilizar la App.</p>
+
+        <h2>1. Aceptación de los Términos</h2>
+        <p>Al registrarte y utilizar la App, aceptas y acuerdas estar legalmente obligado por estos términos y condiciones. Nos reservamos el derecho de modificar estos términos en cualquier momento. Es tu responsabilidad revisar estos términos periódicamente. El uso continuado de la App después de cualquier modificación constituye tu aceptación de los nuevos términos.</p>
+
+        <h2>2. Descripción del Servicio</h2>
+        <p>La App proporciona una plataforma en línea para la compra de dulces y golosinas. Los usuarios pueden navegar, seleccionar y comprar productos de nuestro catálogo.</p>
+
+        <h2>3. Registro y Cuenta</h2>
+        <p>Para utilizar la App, debes registrarte creando una cuenta. Aceptas proporcionar información veraz, precisa y completa durante el proceso de registro y mantener esa información actualizada.</p>
+
+        <h2>4. Privacidad</h2>
+        <p>Respetamos tu privacidad y protegemos tu información personal de acuerdo con nuestra Política de Privacidad. Al utilizar la App, consientes el uso de tu información personal conforme a dicha política.</p>
+
+        <h2>5. Compras y Pagos</h2>
+        <p>Todos los precios de los productos están indicados en la moneda local y son finales. Al realizar una compra, aceptas pagar el precio indicado en el momento de la compra. Los pagos se procesarán a través de plataformas seguras de terceros.</p>
+
+        <h2>6. Envíos y Entregas</h2>
+        <p>Realizamos envíos a las direcciones proporcionadas por los usuarios durante el proceso de compra. Nos esforzamos por cumplir con los tiempos de entrega estimados, pero no somos responsables por retrasos fuera de nuestro control.</p>
+
+        <h2>7. Devoluciones y Reembolsos</h2>
+        <p>Si no estás satisfecho con tu compra, puedes solicitar una devolución dentro de los 14 días posteriores a la recepción del pedido. Los productos deben estar en su estado original y sin abrir. Los reembolsos se procesarán una vez recibamos y verifiquemos los productos devueltos.</p>
+
+        <h2>8. Uso Prohibido</h2>
+        <p>No debes utilizar la App para ningún propósito ilegal o no autorizado. No debes, en el uso de la App, violar ninguna ley en tu jurisdicción (incluyendo pero no limitado a las leyes de propiedad intelectual).</p>
+
+        <h2>9. Limitación de Responsabilidad</h2>
+        <p>La App se proporciona "tal cual" y "según disponibilidad". No garantizamos que la App sea ininterrumpida o esté libre de errores. En ningún caso seremos responsables por cualquier daño directo, indirecto, incidental, especial o consecuente que resulte del uso o la imposibilidad de usar la App.</p>
+
+        <h2>10. Ley Aplicable</h2>
+        <p>Estos términos y condiciones se regirán e interpretarán de acuerdo con las leyes del país en el que se encuentra la sede de la App, sin tener en cuenta sus disposiciones sobre conflictos de leyes.</p>
+
+        <h2>11. Contacto</h2>
+        <p>Si tienes alguna pregunta sobre estos términos y condiciones, por favor contáctanos a través de [correo electrónico de contacto].</p>
+
+        <p>Última actualización: [Fecha de la última actualización]</p>
+        ]]>
+    </string>
+</resources>
